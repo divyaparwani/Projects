@@ -1,0 +1,7 @@
+a=input("Enter the first no:")
+b=input("Enter the second no:")
+if a>b:
+    print(a,"Is greater than",b)
+else:
+    print(b,"is greater than",a)
+
