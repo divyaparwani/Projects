@@ -1,0 +1,8 @@
+﻿Which datatype is a key-value set pair?
+List	Tuple 	Dictionary	String
+
+Which datatype is non-sequential?
+Sets	Tuple	List	Dictionary
+
+
+	
