@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a=int(input("Enter a no:"))
 if a%5==0:
     print(a,"is divisible by 5")
@@ -8,3 +9,15 @@ elif a%11==0:
 else:
     print(a,"is not divisible by 5 or 11")
 
+=======
+a=int(input("Enter a no:"))
+if a%5==0:
+    print(a,"is divisible by 5")
+    if a%11==0:
+        print(a,"is divisible by both 5 and 11")
+elif a%11==0:
+    print(a,"is divisible by 11")
+else:
+    print(a,"is not divisible by 5 or 11")
+
+>>>>>>> 37369fdb1a8fd93cc6929c633bdae72dda354131

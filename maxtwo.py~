@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a=input("Enter the first no:")
 b=input("Enter the second no:")
 if a>b:
@@ -5,3 +6,12 @@ if a>b:
 else:
     print(b,"is greater than",a)
 
+=======
+a=input("Enter the first no:")
+b=input("Enter the second no:")
+if a>b:
+    print(a,"Is greater than",b)
+else:
+    print(b,"is greater than",a)
+
+>>>>>>> 37369fdb1a8fd93cc6929c633bdae72dda354131

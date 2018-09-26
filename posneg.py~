@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a=input("Enter a number:")
 if a>0:
     print(a,"is a positive")
@@ -6,3 +7,13 @@ elif a<0:
 elif a==0:
     print(a,"is equal to zero")
 
+=======
+a=input("Enter a number:")
+if a>0:
+    print(a,"is a positive")
+elif a<0:
+    print(a,"is a negative")
+elif a==0:
+    print(a,"is equal to zero")
+
+>>>>>>> 37369fdb1a8fd93cc6929c633bdae72dda354131
